@@ -21,7 +21,8 @@
 ![github-large](https://i.ibb.co/zbvRLCh/Screenshot-2020-06-07-Ash33njit-IS218-Mini-Project-1.png)
 
 ### Branch
-##### (Add text here)
+##### A branch is essentially a lightweight pointer to a commit. This allows you to “branch out”, and make a new state of your current code, while keeping your current code unaffected. So you can theoretically work on a new features to your code without interacting with your main code directly since it is stored in a branch named master. Typically used when you want to try multiple differnt things but your not sure what's the best route and you want to compare. Or when working on a new rendition or version of software
+![github-large](https://backlog.com/app/themes/backlog-child/assets/img/guides/git/collaboration/using_branches_001.png)
 
 ### Commit
 ##### (Add text here)
