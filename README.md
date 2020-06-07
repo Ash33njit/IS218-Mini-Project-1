@@ -17,7 +17,8 @@
 ![github-large](https://www.w3docs.com/uploads/media/default/0001/03/3f26b30cc1dbda3424ceef3ab4977149906a0c58.png)
 
 ### Fork
-##### (Add text here)
+##### Forking allows you to clone a repository on the gitHub server side. Then, you can clone it to your local system and push your new repository upstream. Typically used when multiple individuals are working in the same repository and/or files.
+![github-large](https://i.ibb.co/zbvRLCh/Screenshot-2020-06-07-Ash33njit-IS218-Mini-Project-1.png)
 
 ### Branch
 ##### (Add text here)
