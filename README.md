@@ -41,7 +41,8 @@
 ![github-large](https://miro.medium.com/max/1200/0*TxVJi3f_GITlW6wF.gif)
 
 ### Pull
-##### (Add text here)
+##### The pull command allows you to fetch new code from remote files and merge them with your current work. Typically used when you want to get the latest version of a file you want to work on. 
+![github-large](https://miro.medium.com/max/1189/1*LnaAe0o0ZtiXCYV71VphPw.png)
 
 ### Remote Add / Remove / Show
 ##### (Add text here)
