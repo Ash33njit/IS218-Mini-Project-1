@@ -37,7 +37,8 @@
 ![github-large](https://www.jquery-az.com/wp-content/uploads/2018/06/2.0_3-Git-checkout-branch.png)
 
 ### Push
-##### (Add text here)
+##### The push command allows you send changes in code to remote repositories. For example, if an organization has a repository on Github a developer may push their changes to it.
+![github-large](https://miro.medium.com/max/1200/0*TxVJi3f_GITlW6wF.gif)
 
 ### Pull
 ##### (Add text here)
