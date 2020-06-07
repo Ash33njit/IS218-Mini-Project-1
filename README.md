@@ -2,7 +2,7 @@
 ##### Mini Project 1 by Adib Haque &amp; Marlon Sarkor
 
 ## How the usage of Git, Docker, automated testing, & continuous integration can improve the productivity & competitiveness of a company:
-##### (Add text here)
+Benefits of GIT: Git allows companies to view the progress of development and truly understand the process of the development life cycle. It allows for a collaborative environment, which leads to increased productivity. Features such as branching, cloning, pulling and more allows for gathering and sharing information across all development. GIT also allows a company's developers to see how much time and effort their colleagues are putthing in through a feature such as commit. This increases the sense of urgency to produce more and also motivates developers. 
 
 ## GitFlow Workflow Explanation
 ##### (Add text here)
