@@ -9,7 +9,7 @@
 
 ## Git Commands/Termonlogy: Definition & Examples:
 ### Repository
-##### (Add text here)
+##### Repositories are containers that contain refs which are point to objects or other refs.
 
 ### Clone
 ##### (Add text here)
