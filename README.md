@@ -45,7 +45,8 @@
 ![github-large](https://miro.medium.com/max/1189/1*LnaAe0o0ZtiXCYV71VphPw.png)
 
 ### Remote Add / Remove / Show
-##### (Add text here)
+##### These are the commands you use to work with remotes. Remotes are repositories stored on the internet or a network. With the add command you can explicitly create remote and define a url where this new repository will be stored. The remove command removes a remote. This is useful if you have a developer no longer contributing to a project. The show command allows you to view your various remote repositories. 
+![github-large](https://www.jquery-az.com/wp-content/uploads/2018/07/7.0_2-Git-remote-add.png)
 
 ### Status
 ##### (Add text here)
