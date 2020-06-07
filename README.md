@@ -8,6 +8,8 @@ Benefits of Docker: Docker containers allow for VM-like productivity but more fo
 
 Benefits of automated testing: Automated testing enables a company to save time and use resources towards new projects innovation. It eliminates a great amount of manual work, making a company more efficient and productive. Autoamted testing creates consistency and lowers the chances of human error. It can also save money for the company, due to decreased human labor and overhead. An automated process is not only consistent, but accurate in most cases if done correctly. The usage of automated testing will help a company is many aspects related to competitiveness and productivity. 
 
+Benefits of continuous integration: Continuous Integration helps companies and developers to produce reliable code. It also allows for peer review which can assist with discovering errors or bugs. Continuous Integration along with the features mentioned above can help with verifying the accuracy of code and other projects. This also helps the company grow through innovation and mostly helps with the quality assurance of a product. 
+
 ## GitFlow Workflow Explanation
 ##### (Add text here)
 
