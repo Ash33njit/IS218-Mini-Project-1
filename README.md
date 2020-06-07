@@ -29,7 +29,8 @@
 ![github-large](https://i.ibb.co/SrXmm6Y/Screenshot-2020-06-07-Ash33njit-IS218-Mini-Project-1-1.png)
 
 ### Merge
-##### (Add text here)
+##### What a merge does is take changes made from one branch and apply them to another branch. This is the git command software engineers can use to merge changes made in their code with their main code.
+![github-large](https://i.ibb.co/hy2yH2Q/Screenshot-2020-06-07-Ash33njit-IS218-Mini-Project-1-2.png)
 
 ### Checkout
 ##### (Add text here)
