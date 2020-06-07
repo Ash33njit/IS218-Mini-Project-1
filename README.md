@@ -6,7 +6,7 @@ Mini Project 1 by Adib Haque &amp; Marlon Sarkor
 
 ## Git Commands/Termonlogy: Definition & Examples
 ### Repository
-#### (Add text here)
+##### (Add text here)
 ### Clone
 ### Fork
 ### Branch
