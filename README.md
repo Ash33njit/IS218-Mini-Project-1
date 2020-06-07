@@ -10,8 +10,10 @@ Benefits of automated testing: Automated testing enables a company to save time 
 
 Benefits of continuous integration: Continuous Integration helps companies and developers to produce reliable code. It also allows for peer review which can assist with discovering errors or bugs. Continuous Integration along with the features mentioned above can help with verifying the accuracy of code and other projects. This also helps the company grow through innovation and mostly helps with the quality assurance of a product. 
 
+Overall, the combination of all of these features help create an environment where developers can create code with peers to assist the company in moving forward with new products in an elegant manner. These features create a collaborative playing field, which helps developers keep up to date with current development. The use of automated testing helps eliminate a great amount of issues that stem from Human error. Continuous integration allows companies and developers to produce efficient and reliable products. 
+
 ## GitFlow Workflow Explanation
-##### (Add text here)
+
 
 ## Git Commands/Termonlogy: Definition & Examples:
 ### Repository
