@@ -26,8 +26,7 @@ See below for the steps in a GitFlow project:
 - If there is an issue identified in master, a hotfix branch is created from master
 - Once the developers complete the hotfix branch, it is merged into develop and master.
 
-
-
+This process shows how GitFlow is a tree format and can easily be used to track progress. The steps above are an example of let's say a Microsoft Windows Update. If the update were to go live and then a security flaw is discovered, a hotfix would need to be implemented and pushed out. This is a perfect exmaple of how GitFlow can be used efficiently. 
 
 
 ## Git Commands/Termonlogy: Definition & Examples:
