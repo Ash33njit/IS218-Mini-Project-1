@@ -53,4 +53,5 @@
 ![github-large](https://miro.medium.com/max/1212/1*38gmQq3ESFXL5hTXWdqg-Q.png)
 
 ### Master Branch
-##### (Add text here)
+##### Master is a default name for the original local branch of a project. The master branch is ultimately the main source code of a project. After a developer has made changes to a project in separate branches they merge the code back to the master branch and that is the main 
+![github-large](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
