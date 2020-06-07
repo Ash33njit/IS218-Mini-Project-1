@@ -33,7 +33,8 @@
 ![github-large](https://i.ibb.co/hy2yH2Q/Screenshot-2020-06-07-Ash33njit-IS218-Mini-Project-1-2.png)
 
 ### Checkout
-##### (Add text here)
+##### The checkout command allows you to update a repositories state to a specific point in the project’s development. You can use the checkout command on the command line to create a new branch, change your current working branch to a different branch, or even to switch to a different version of a file from a different branch. The "checkout" action updates all or part of the working tree. Typically used when you need to work on different branches, create new branches, or explore files. 
+![github-large](https://www.jquery-az.com/wp-content/uploads/2018/06/2.0_3-Git-checkout-branch.png)
 
 ### Push
 ##### (Add text here)
