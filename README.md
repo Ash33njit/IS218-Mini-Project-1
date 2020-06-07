@@ -7,13 +7,14 @@
 ## GitFlow Workflow Explanation
 ##### (Add text here)
 
-## Git Commands/Termonlogy: Definition & Examples:
+## Git Commands/Terminology: Definition & Examples:
 ### Repository
-##### Repositories are containers that contain refs which are point to objects or other refs. Like a folder with files, except this folder keeps track of all its files history
+##### Repositories are containers that contain refs which are point to objects or other refs. Like a folder with files, except this folder keeps track of all its files history. This is used anytime you utilize git. 
 ![github-large](https://media.geeksforgeeks.org/wp-content/uploads/20191121165133/repository1.jpg)
 
 ### Clone
-##### (Add text here)
+##### A clone is a copy of a repository that is stored locally rather then on a web server. It can also be defined as the act of making a copy. When you make a clone, you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. Clones are still connected to the remote version. This allows users to push local changes to the remote to keep them in sync. This is used when you would like to work on git files in a prefered editor, or when you know you will be suffering from lapses of no internet. 
+![github-large](https://www.w3docs.com/uploads/media/default/0001/03/3f26b30cc1dbda3424ceef3ab4977149906a0c58.png)
 
 ### Fork
 ##### (Add text here)
