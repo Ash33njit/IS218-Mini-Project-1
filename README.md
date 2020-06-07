@@ -25,7 +25,8 @@
 ![github-large](https://backlog.com/app/themes/backlog-child/assets/img/guides/git/collaboration/using_branches_001.png)
 
 ### Commit
-##### (Add text here)
+##### A commit is essentially a revision to a file or set of files. Every time a commit is made it creates an ID string called the SHA. This is to allow developers to keep a record of all the changes made to a project. Used nearly everytime you use Git. In order to save changes, ypou must commit.
+![github-large](https://i.ibb.co/SrXmm6Y/Screenshot-2020-06-07-Ash33njit-IS218-Mini-Project-1-1.png)
 
 ### Merge
 ##### (Add text here)
