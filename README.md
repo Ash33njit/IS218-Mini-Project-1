@@ -5,15 +5,15 @@ Mini Project 1 by Adib Haque &amp; Marlon Sarkor
 
 
 ## Git Commands/Termonlogy: Definition & Examples
-# Repository
-# Clone
-# Fork
-# Branch
-# Commit
-# Merge
-# Checkout
-# Push
-# Pull
-# Remote Add / Remove / Show
-# Status
-# Master Branch
+### Repository
+### Clone
+### Fork
+### Branch
+### Commit
+### Merge
+### Checkout
+### Push
+### Pull
+### Remote Add / Remove / Show
+### Status
+### Master Branch
