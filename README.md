@@ -13,7 +13,7 @@ Benefits of continuous integration: Continuous Integration helps companies and d
 Overall, the combination of all of these features help create an environment where developers can create code with peers to assist the company in moving forward with new products in an elegant manner. These features create a collaborative playing field, which helps developers keep up to date with current development. The use of automated testing helps eliminate a great amount of issues that stem from Human error. Continuous integration allows companies and developers to produce efficient and reliable products. 
 
 ## GitFlow Workflow Explanation
-
+GitFlow administers the types of braches to create and how to merge them. GitFlow also has a command-line tool called git-flow which can be used a multiple popular operating systems. Git-flow is a wrapper around the popular tool GIT. GitFlow shows the workflow of the Master and Develop branches. The different features of Git allow for collaborative projects and an idea of progress throughout the development life cycle. 
 
 ## Git Commands/Termonlogy: Definition & Examples:
 ### Repository
