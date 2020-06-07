@@ -18,6 +18,11 @@ GitFlow administers the types of braches to create and how to merge them. GitFlo
 Developers can use branches to indivually work on projects and commit changes when needed. This feature is very convenient becuase it does not effect the original code/project. 
 
 See below for the steps in a GitFlow project:
+- Create a develop branch from the master
+- Create a release branch from develop (This is more so for software releases)
+- Create feature branches from develop
+- When a developer is done coding a feature, it is then merged to the develop branch
+
 
 
 ## Git Commands/Termonlogy: Definition & Examples:
