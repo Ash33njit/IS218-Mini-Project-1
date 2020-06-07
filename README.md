@@ -49,7 +49,8 @@
 ![github-large](https://www.jquery-az.com/wp-content/uploads/2018/07/7.0_2-Git-remote-add.png)
 
 ### Status
-##### (Add text here)
+##### The status command analyzes the current repository and determines whether or not the current repository needs any items committed. This is useful for a developer to see if they need to make any commits to the code or just get an update on files so they don’t lose the new augmentations they made to the code
+![github-large](https://miro.medium.com/max/1212/1*38gmQq3ESFXL5hTXWdqg-Q.png)
 
 ### Master Branch
 ##### (Add text here)
