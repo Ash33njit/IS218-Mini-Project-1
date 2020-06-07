@@ -15,6 +15,11 @@ Overall, the combination of all of these features help create an environment whe
 ## GitFlow Workflow Explanation
 GitFlow administers the types of braches to create and how to merge them. GitFlow also has a command-line tool called git-flow which can be used a multiple popular operating systems. Git-flow is a wrapper around the popular tool GIT. GitFlow shows the workflow of the Master and Develop branches. The different features of Git allow for collaborative projects and an idea of progress throughout the development life cycle. 
 
+Developers can use branches to indivually work on projects and commit changes when needed. This feature is very convenient becuase it does not effect the original code/project. 
+
+See below for the steps in a GitFlow project:
+
+
 ## Git Commands/Termonlogy: Definition & Examples:
 ### Repository
 ##### Repositories are containers that contain refs which are point to objects or other refs.
