@@ -22,6 +22,11 @@ See below for the steps in a GitFlow project:
 - Create a release branch from develop (This is more so for software releases)
 - Create feature branches from develop
 - When a developer is done coding a feature, it is then merged to the develop branch
+- When a developer is done with the release branch, it is merged into develop and master
+- If there is an issue identified in master, a hotfix branch is created from master
+- Once the developers complete the hotfix branch, it is merged into develop and master.
+
+
 
 
 
